@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="RocketView">
+        <attr name="speed" format="integer" />
+        <attr name="hasPower" format="boolean" />
+        <attr name="rocketBgLeft" format="reference" />
+        <attr name="rocketBgRight" format="reference" />
+        <attr name="viewWidth" format="dimension" />
+        <attr name="viewHeight" format="dimension" />
+    </declare-styleable>
+
+</resources>
+
